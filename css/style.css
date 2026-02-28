@@ -41,6 +41,15 @@ body
 	transition :0.5s;
 	transform: scale(1.1);
 }
+	.bot
+	{
+		display:inline-block;
+		background-color:#709edb;
+		color:white;
+		margin:5px;
+		padding:6px;
+		border-radius:20px;
+}
 
 	 
 	
