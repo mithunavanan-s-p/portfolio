@@ -41,7 +41,7 @@ body
 	transition :0.5s;
 	transform: scale(1.1);
 }
-	bot
+	.bot
 	{
 		background-color:#709edb;
 		color:white;
