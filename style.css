@@ -43,6 +43,7 @@ body
 }
 	.bot
 	{
+		display:inline-block;
 		background-color:#709edb;
 		color:white;
 		margin:5px;
@@ -56,3 +57,4 @@ ul
 	 
 	
 		  
+
