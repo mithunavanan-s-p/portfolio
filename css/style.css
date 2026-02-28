@@ -1,0 +1,47 @@
+/* css for personal portal*/
+body
+{
+	background-color:#f4f4f9;
+	margin:0;
+	padding:0;
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.heading
+{
+ background-color:#2c3e50;
+ margin:0;
+ padding:50px 30px;
+ color:white;
+ font-size:30px;
+}
+.contant
+{
+  margin-left:15%;
+  color:#527da8;
+  
+}
+.card {
+            background: white;
+            padding: 20px;
+            margin-bottom: 20px;
+			margin-right:10%;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+			
+        }
+		.ending 
+		{
+		     background-color:#2c3e50;
+			 color:white;
+			 padding:20px;
+
+        }	
+.card:hover
+{
+	transition :0.5s;
+	transform: scale(1.1);
+}
+
+	 
+	
+		  
