@@ -36,5 +36,23 @@ body
 			 padding:20px;
 
         }	
-			 
+.card:hover
+{
+	transition :0.5s;
+	transform: scale(1.1);
+}
+	bot
+	{
+		background-color:#709edb;
+		color:white;
+		margin:5px;
+		padding:6px;
+		border-radius:20px;
+}
+ul
+{
+	color:black;
+}
+	 
+	
 		  
